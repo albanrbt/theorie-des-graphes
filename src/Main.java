@@ -100,6 +100,6 @@ public class Main {
             }
             System.out.println("  ");
         }
->>>>>>> init_2.0
+
     }
 }
